@@ -10,15 +10,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Ronaldo Coelho Junior
+- Matricula: 898895
+- Proposta de projeto escolhida: Pessoas e Produções
+- Breve descrição sobre seu projeto: Criação de uma página destinada a um autor e escritor famoso, detalahndo sua história e suas obras.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Wireframe do projeto Pessoa](public/Wireframe%20-%20DIW.jpg)
 
 
 ## Print da home-page criada
